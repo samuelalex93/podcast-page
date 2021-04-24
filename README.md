@@ -1,34 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Podcast Page - Aplicação front end desenvolvida em next/react na semana NLW5</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-## Getting Started
+## Sobre
 
-First, run the development server:
+Podcast Page - Aplicação front end desenvolvida em next/react na semana NLW5.
 
-```bash
-npm run dev
-# or
+## Instalar dependências
+
+Instalar as dependencias em cada serviço.
+
+```sh
+yarn install
+```
+
+## Executar ambiente
+
+```sh
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Executar jsonServer
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```sh
+yarn server
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Tecnologias
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+* TS
+* React
+* Next
 
-## Learn More
+## Autor
 
-To learn more about Next.js, take a look at the following resources:
+👤 **Samuel Aguiar**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* LinkedIn: [@samuel-aguiar-426687a8](https://linkedin.com/in/samuel-aguiar-426687a8)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🤝 Contribuição
 
-## Deploy on Vercel
+Contribuição, issues e feature requests são bem vindas!<br />[issues page](https://github.com/samuelalex93/podcast-page/issues). 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📝 Licenças
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Copyright © 2021 [Samuel Aguiar](https://github.com/samuelalex93).<br />
+This project is [MIT](LICENSE) licensed.
